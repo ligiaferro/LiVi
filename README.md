@@ -49,7 +49,7 @@ O sistema é composto por duas unidades principais: o **Nó Sensor** e o **Gatew
     ```
 
 2.  **Configuração do Firmware**
-    * Abra a pasta do projeto no PlatformIO.
+    * Abra a pasta do projeto no PlatformIO e selecione o ambiente de execução (ex: transmissor ou receptor).
     * **Nó Sensor:** Ajuste os parâmetros de sensibilidade do microfone e o intervalo de leitura no `main.cpp`.
     * **Gateway:** Configure as credenciais Wi-Fi (SSID/Password) e as chaves de API do Firebase.
 
