@@ -27,7 +27,6 @@ O sistema é composto por duas unidades principais: o **Nó Sensor** e o **Gatew
 | :--- | :--- | :--- |
 | **Microcontrolador** | [Heltec WiFi LoRa 32 V2](https://heltec.org/) | Processamento e comunicação (LoRa/Wi-Fi). Usado tanto nos Nós quanto no Gateway. |
 | **Sensor de Som** | MAX4466 | Módulo de microfone eletreto com ganho ajustável para captura do nível de pressão sonora. |
-| **Display** | OLED 0.96" (Integrado) | Feedback visual local e debugging. |
 
 ## Arquitetura de Software
 
