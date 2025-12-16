@@ -55,7 +55,7 @@ O sistema é composto por duas unidades principais: o **Nó Sensor** e o **Gatew
 
 3.  **Hardware**
     * Conecte o pino `OUT` do MAX4466 a um pino ADC do ESP32 (conforme esquemático).
-    * Alimente as placas via USB ou bateria Li-Po.
+    * Alimente as placas via USB.
 
 4.  **Dashboard**
     * Abra o `index.html` localmente.
