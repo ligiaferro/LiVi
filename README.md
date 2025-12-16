@@ -46,7 +46,7 @@ O sistema é composto por duas unidades principais: o **Nó Sensor** e o **Gatew
 
 1.  **Clonar o Repositório**
     ```bash
-    git clone [https://github.com/seu-usuario/noise-monitoring-lora.git](https://github.com/seu-usuario/noise-monitoring-lora.git)
+    git clone [https://github.com/ligiaferro/LiVi.git](https://github.com/ligiaferro/LiVi.git)
     ```
 
 2.  **Configuração do Firmware**
@@ -59,7 +59,7 @@ O sistema é composto por duas unidades principais: o **Nó Sensor** e o **Gatew
     * Alimente as placas via USB ou bateria Li-Po.
 
 4.  **Dashboard**
-    * Hospede os arquivos da pasta `web-dashboard` ou abra o `index.html` localmente.
+    * Abra o `index.html` localmente.
     * Certifique-se de que o script de configuração do Firebase corresponde ao seu projeto.
 
 ## 👥 Autores
@@ -72,4 +72,3 @@ O sistema é composto por duas unidades principais: o **Nó Sensor** e o **Gatew
 Este projeto é parte de uma iniciativa de pesquisa acadêmica.
 
 ---
-*Baseado no artigo: "A Real-Time IoT System for Hyper-Local Noise Source Identification using LoRa"*
